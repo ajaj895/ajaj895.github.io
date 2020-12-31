@@ -1,0 +1,41 @@
+/*
+    This is comment block in CSS, similar to C but // does not work.
+    CSS is for how things look, HTML is for how things are placed on the page.
+*/
+
+body {
+    text-align:center;
+}
+
+h1 {
+    text-align:center;
+    font-family: Avant Garde, Verdana, Tahoma, sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    background-color: black;
+    /*
+        That 4px is the blur effect of the shadow.
+    */
+    text-shadow: 2px 2px 4px gray;
+}
+
+p {
+    margin: auto;
+    border: 5px solid purple;
+    border-style: hidden groove hidden groove;
+    padding: 25px 50px 25px 50px;
+    width: 450px;
+    height: auto;
+    text-align: center;
+}
+
+div {
+    line-height: 35px;
+    background-color: black;
+    color: white;
+}
+
+img {
+    margin: 1px 8px 1px 8px;
+}
