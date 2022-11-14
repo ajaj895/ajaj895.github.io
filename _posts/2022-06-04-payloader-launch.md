@@ -13,8 +13,8 @@ Maiden flight of the RocketryWorks Payloader rocket on an AeroTech G80-7T compos
 
 That being said, this flight was a complete success and the payloader was gone in a blink of an eye but made it safely back to the ground in one piece after a long and hard maiden flight. Minimal damage was done to the launch lugs due to how far apart they are on the rocket. The lugs may need to be put closer together or glued with stronger adhesive.
 
-| Engine          | Outcome          |
-| --------------- | ---------------- |
-| AeroTech G80-7T | Complete Success |
+| Engine          | Outcome   |
+| --------------- | --------- |
+| AeroTech G80-7T | Success   |
 
 ![RocketryWorks Payloader #1](/assets/images/payloader1.jpeg)
